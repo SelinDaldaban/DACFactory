@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DjangoWebProject1",
+    "\\DjangoWebProject1\\app",
+    "\\DjangoWebProject1\\app\\migrations",
+    "\\DjangoWebProject1\\app\\static",
+    "\\DjangoWebProject1\\app\\static\\app",
+    "\\DjangoWebProject1\\app\\static\\app\\content",
+    "\\DjangoWebProject1\\app\\static\\app\\fonts",
+    "\\DjangoWebProject1\\env",
+    "\\DjangoWebProject1\\env\\Lib\\site-packages",
+    "\\DjangoWebProject1\\env\\Lib\\site-packages\\django",
+    "\\DjangoWebProject1\\obj"
+  ],
+  "SelectedNode": "\\DjangoWebProject1\\app\\static\\app\\content\\_all-skins.min.css",
+  "PreviewInSolutionExplorer": false
+}
