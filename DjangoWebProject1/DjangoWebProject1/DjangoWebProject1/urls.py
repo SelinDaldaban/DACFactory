@@ -18,7 +18,7 @@ urlpatterns = [
     # Examples:
     url(r'^index$', app.views.home, name='home'),
     url(r'^contact$', app.views.contact, name='contact'),
-    url(r'^photo', app.views.photo, name='photo'),
+    #url(r'^photo', app.views.photo, name='photo'),
     url(r'^$',
         django.contrib.auth.views.login,
         {
